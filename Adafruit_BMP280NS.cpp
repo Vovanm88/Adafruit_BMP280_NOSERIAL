@@ -19,7 +19,7 @@
  *  BSD license, all text above must be included in any redistribution
  */
 
-#include <Adafruit_BMP280.h>
+#include <Adafruit_BMP280NS.h>
 
 /*!
  * @brief  BMP280 constructor using i2c
